@@ -97,14 +97,8 @@ Buka browser dan akses: `http://localhost:3000`
 
 ## Screenshot Tampilan
 
-### Home Page
-![Homepage](public/img/screenshot-home1.png)
-![Homepage](public/img/screenshot-home2.png)
-![Homepage](public/img/screenshot-home3.png)
-![Homepage](public/img/screenshot-home4.png)
-![Homepage](public/img/screenshot-home5.png)
-![Homepage](public/img/screenshot-home6.png)
-
+### Home Page / Beranda
+![Homepage](<img width="1366" height="3247" alt="image" src="https://github.com/user-attachments/assets/4b6948da-cb3b-4002-b5a6-6da674db073d" />)
 ### Halaman Games
 ![Halaman Games](public/img/screenshot-games.png)
 
